@@ -12,8 +12,8 @@
 
 * **Languages**   Javascript(ES6+), HTML, CSS
 * **Strong**   React(hooks), Redux, SCSS
-* **Knowledgeable**   Node.js, Express, MySQL, Sequeilize
-* **Etc**   Git, Notion, Figma, Photoshop, Illustrator, Postman, AWS(EC2, S3, RDS)
+* **Knowledgeable**   TypeScript, Styled-components, React Native
+* **Etc**   Git, Notion, Figma, Photoshop, Illustrator
 
 <br>
   
