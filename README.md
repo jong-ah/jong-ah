@@ -12,8 +12,8 @@
 
 * **Languages**   Javascript(ES6+), HTML, CSS
 * **Strong**   React(hooks), Redux, SCSS
-* **Knowledgeable**   TypeScript, Styled-components, React Native
-* **Etc**   Git, Notion, Figma, Photoshop, Illustrator
+* **Interested**   TypeScript, Styled-components, React Native
+* **Etc**   Git, Notion, Figma, Photoshop, Illustrator, Node.js, Express, AWS
 
 <br>
   
