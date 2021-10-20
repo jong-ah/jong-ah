@@ -12,7 +12,7 @@
 
 * **Languages**   Javascript, HTML, CSS
 * **Strong**   React, Redux, SCSS
-* **Interested**   TypeScript, Styled-components, React Native
+* **Interested**   TypeScript, Styled-components, React Native, Vue
 * **Etc**   Git, Notion, Figma, Photoshop, Illustrator, Node.js, Express, AWS
 
 <br>
